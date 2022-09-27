@@ -34,4 +34,4 @@ Hi I'm Leandro.
 
 # Frontend Developer Skills
 
-[![My Skills](https://skillicons.dev/icons?i=figma,html,css,bootstrap,sass,angular,tailwind,styledcomponents,material,react,nextjs,redux&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,html,css,bootstrap,sass,angular,tailwind,styledcomponents,materialui,react,nextjs,redux&perline=4)](https://skillicons.dev)
