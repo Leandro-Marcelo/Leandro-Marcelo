@@ -1,4 +1,4 @@
-Backend Developer
+FullStack Developer
 --------------------------------------
 
 Hi I'm Leandro.
