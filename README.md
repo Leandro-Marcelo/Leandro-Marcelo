@@ -12,7 +12,7 @@ Hi I'm Leandro.
 # Backend Developer Skills
 
 ## Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=java,graphql,ts,javascript,nodejs&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,java,ts,javascript,nodejs&perline=4)](https://skillicons.dev)
 
 ## Frameworks
 [![My Skills](https://skillicons.dev/icons?i=spring,express,nestjs&perline=3)](https://skillicons.dev)
