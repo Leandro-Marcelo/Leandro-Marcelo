@@ -24,7 +24,7 @@ Hi I'm Leandro.
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp&perline=5)](https://skillicons.dev)
 
 ## Testing
-[![My Skills](https://skillicons.dev/icons?i=jenkins,jest&perline=5)](https://skillicons.dev)
+[![My Skills]](https://skillicons.dev)
 
 ## ORMS
 [![My Skills](https://skillicons.dev/icons?i=prisma,mongoose,apollo,hibernate&perline=5)](https://skillicons.dev)
