@@ -1,41 +1,55 @@
-FullStack Developer
---------------------------------------
+## FullStack Developer
 
 Hi I'm Leandro.
 
-*   🌍  I'm based in Chile
-*   🖥️  See my portfolio at [Portfolio](https://leandro-marcelo.github.io/portfolio/)
-*   ✉️  You can contact me at [lmarcelos2019@gmail.com](mailto:lmarcelos2019@gmail.com)
-*   🚀  I'm currently working on [Storage App Hackathon](https://github.com/Leandro-Marcelo/storageAppHackathon)
-*   🧠  I'm learning GraphQL, Kubernetes, Docker
+- 🌍  I'm based in Chile
+- 🖥️  See my portfolio at [Portfolio](https://leandro-marcelo.github.io/portfolio/)
+- ✉️  You can contact me at [lmarcelos2019@gmail.com](mailto:lmarcelos2019@gmail.com)
+- 🚀  I'm currently working on [Storage App Hackathon](https://github.com/Leandro-Marcelo/storageAppHackathon)
+- 🧠  I'm learning GraphQL, Kubernetes, Docker
 
 # Backend Developer Skills
 
-|      Icon ID       |                         Icon                          |
-| :----------------: | :---------------------------------------------------: |
-|     `Golang`       |    [![My Skills](https://skillicons.dev/icons?i=go)](https://skillicons.dev) |
-
 ## Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=go)](https://skillicons.dev) Go / Golang
 
-adsadsa
-[![My Skills](https://skillicons.dev/icons?i=go,java,ts,javascript,nodejs&perline=4)](https://skillicons.dev)
+| Golang                                    | Java                                         | TypeScript                                    | JavaScript                                    | NodeJS                                         | Bash                                         |
+| ----------------------------------------- | -------------------------------------------- | --------------------------------------------- | --------------------------------------------- | ---------------------------------------------- | -------------------------------------------- |
+| <img src="./icons/GoLang.svg" width="48"> | <img src="./icons/Java-Dark.svg" width="48"> | <img src="./icons/TypeScript.svg" width="48"> | <img src="./icons/JavaScript.svg" width="48"> | <img src="./icons/NodeJS-Dark.svg" width="48"> | <img src="./icons/Bash-Dark.svg" width="48"> |
 
 ## Frameworks
-[![My Skills](https://skillicons.dev/icons?i=spring,express,nestjs&perline=3)](https://skillicons.dev)
 
-## Databases
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis&perline=5)](https://skillicons.dev)
+| Spring Boot                                    | Express                                           | Nest                                           | Gin                                    | Fiber                                    |
+| ---------------------------------------------- | ------------------------------------------------- | ---------------------------------------------- | -------------------------------------- | ---------------------------------------- |
+| <img src="./icons/Spring-Dark.svg" width="48"> | <img src="./icons/ExpressJS-Dark.svg" width="48"> | <img src="./icons/NestJS-Dark.svg" width="48"> | <img src="./icons/gin.png" width="48"> | <img src="./icons/fiber.svg" width="48"> |
 
 ## Cloud Computing
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp&perline=5)](https://skillicons.dev)
+
+| Amazon Web Services (AWS)                   | Google Cloud Platform (GCP)                 |
+| ------------------------------------------- | ------------------------------------------- |
+| <img src="./icons/AWS-Dark.svg" width="48"> | <img src="./icons/GCP-Dark.svg" width="48"> |
+
+## Databases
+
+| Oracle                                           | MySQL                                         | PostgreSQL                                         | MongoDB (NoSQL)                            | Redis                                         |
+| ------------------------------------------------ | --------------------------------------------- | -------------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
+| <img src="./icons/sql-developer.png" width="48"> | <img src="./icons/MySQL-Dark.svg" width="48"> | <img src="./icons/PostgreSQL-Dark.svg" width="48"> | <img src="./icons/MongoDB.svg" width="48"> | <img src="./icons/Redis-Dark.svg" width="48"> |
 
 ## ORMS
-[![My Skills](https://skillicons.dev/icons?i=prisma,mongoose,apollo,hibernate&perline=5)](https://skillicons.dev)
 
-## IDEs and Tools
-[![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,git,github,bash,maven&perline=3)](https://skillicons.dev)
+| Prisma                                    | GORM                                    | Hibernate                                         |
+| ----------------------------------------- | --------------------------------------- | ------------------------------------------------- |
+| <img src="./icons/Prisma.svg" width="48"> | <img src="./icons/gorm.png" width="48"> | <img src="./icons/Hibernate-Dark.svg" width="48"> |
+
+## Tools
+
+| Kubernetes                                    | Docker                                    | Git                                    | Github                                         |
+| --------------------------------------------- | ----------------------------------------- | -------------------------------------- | ---------------------------------------------- |
+| <img src="./icons/Kubernetes.svg" width="48"> | <img src="./icons/Docker.svg" width="48"> | <img src="./icons/Git.svg" width="48"> | <img src="./icons/Github-Dark.svg" width="48"> |
 
 # Frontend Developer Skills
 
-[![My Skills](https://skillicons.dev/icons?i=figma,html,css,bootstrap,sass,angular,tailwind,styledcomponents,materialui,react,nextjs,redux&perline=4)](https://skillicons.dev)
+| REACT                                         | NEXT                                           | REDUX                                    | TAILWIND                                            |
+| --------------------------------------------- | ---------------------------------------------- | ---------------------------------------- | --------------------------------------------------- |
+| <img src="./icons/React-Dark.svg" width="48"> | <img src="./icons/NextJS-Dark.svg" width="48"> | <img src="./icons/Redux.svg" width="48"> | <img src="./icons/TailwindCSS-Dark.svg" width="48"> |
+
+[//]: <> (figma,html,css,bootstrap,sass,angular,tailwind,styledcomponents,materialui,react,nextjs,redux)
