@@ -13,6 +13,8 @@ Hi I'm Leandro.
 
 ## Programming Languages
 Go / Golang [![My Skills](https://skillicons.dev/icons?i=go)](https://skillicons.dev)
+
+adsadsa
 [![My Skills](https://skillicons.dev/icons?i=go,java,ts,javascript,nodejs&perline=4)](https://skillicons.dev)
 
 ## Frameworks
