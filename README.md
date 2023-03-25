@@ -12,6 +12,7 @@ Hi I'm Leandro.
 # Backend Developer Skills
 
 ## Programming Languages
+Go / Golang (https://skillicons.dev/icons?i=go)(https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=go,java,ts,javascript,nodejs&perline=4)](https://skillicons.dev)
 
 ## Frameworks
