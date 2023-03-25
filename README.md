@@ -11,6 +11,10 @@ Hi I'm Leandro.
 
 # Backend Developer Skills
 
+|      Icon ID       |                         Icon                          |
+| :----------------: | :---------------------------------------------------: |
+|     `Golang`       |    [![My Skills](https://skillicons.dev/icons?i=go)](https://skillicons.dev) |
+
 ## Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=go)](https://skillicons.dev) Go / Golang
 
