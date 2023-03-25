@@ -23,9 +23,6 @@ Hi I'm Leandro.
 ## Cloud Computing
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp&perline=5)](https://skillicons.dev)
 
-## Testing
-[![My Skills]](https://skillicons.dev)
-
 ## ORMS
 [![My Skills](https://skillicons.dev/icons?i=prisma,mongoose,apollo,hibernate&perline=5)](https://skillicons.dev)
 
