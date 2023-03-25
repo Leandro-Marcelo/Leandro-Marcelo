@@ -42,9 +42,9 @@ Hi I'm Leandro.
 
 ## Tools
 
-| Kubernetes                                    | Docker                                    | Git                                    | Github                                         |
-| --------------------------------------------- | ----------------------------------------- | -------------------------------------- | ---------------------------------------------- |
-| <img src="./icons/Kubernetes.svg" width="48"> | <img src="./icons/Docker.svg" width="48"> | <img src="./icons/Git.svg" width="48"> | <img src="./icons/Github-Dark.svg" width="48"> |
+| Kubernetes                                    | Docker                                    | NGINX                                    | Git                                    | Github                                         |
+| --------------------------------------------- | ----------------------------------------- | ---------------------------------------- | -------------------------------------- | ---------------------------------------------- |
+| <img src="./icons/Kubernetes.svg" width="48"> | <img src="./icons/Docker.svg" width="48"> | <img src="./icons/Nginx.svg" width="48"> | <img src="./icons/Git.svg" width="48"> | <img src="./icons/Github-Dark.svg" width="48"> |
 
 # Frontend Developer Skills
 
