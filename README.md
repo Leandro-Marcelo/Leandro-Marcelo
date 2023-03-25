@@ -30,7 +30,7 @@ Hi I'm Leandro.
 
 ## Databases
 
-| Oracle                                           | MySQL                                         | PostgreSQL                                         | MongoDB (NoSQL)                            | Redis                                         |
+| Oracle                                           | MySQL                                         | PostgreSQL                                         | MongoDB (NoSQL)                            | Redis (NoSQL)                                 |
 | ------------------------------------------------ | --------------------------------------------- | -------------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
 | <img src="./icons/sql-developer.png" width="48"> | <img src="./icons/MySQL-Dark.svg" width="48"> | <img src="./icons/PostgreSQL-Dark.svg" width="48"> | <img src="./icons/MongoDB.svg" width="48"> | <img src="./icons/Redis-Dark.svg" width="48"> |
 
