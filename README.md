@@ -5,8 +5,7 @@ Hi I'm Leandro.
 - 🌍  I'm based in Chile
 - 🖥️  See my portfolio at [Portfolio](https://leandro-marcelo.github.io/portfolio/)
 - ✉️  You can contact me at [lmarcelos2019@gmail.com](mailto:lmarcelos2019@gmail.com)
-- 🚀  I'm currently working on [Storage App Hackathon](https://github.com/Leandro-Marcelo/storageAppHackathon)
-- 🧠  I'm learning GraphQL, Kubernetes, Docker
+- 🚀  I'm currently working on Mercado Libre
 
 # Backend Developer Skills
 
