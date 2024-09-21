@@ -1,6 +1,6 @@
 ## FullStack Developer
 
-Hi I'm Leandro.
+Hi I'm Leandro Marcelo.
 
 - 🌍  I'm based in Chile
 - 🖥️  See my portfolio at [Portfolio](https://leandro-marcelo.github.io/portfolio/)
